@@ -1,0 +1,4 @@
+Flask==2.0.1
+Werkzeug==2.0.1
+sqlite3  # Usually included with Python
+datetime  # Usually included with Python 
